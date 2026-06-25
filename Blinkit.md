@@ -40,7 +40,7 @@ The dashboard helps in tracking key business metrics and identifying trends thro
 
 ## Dashboard Preview
 
-Blinkit_Analysis.png
+(Blinkit_Analysis.png)
 
 ## Business Insights
 
